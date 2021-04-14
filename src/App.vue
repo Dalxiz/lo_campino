@@ -7,7 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-//Prueba push2
+//Prueba push3
 
 export default {
   name: 'App',
